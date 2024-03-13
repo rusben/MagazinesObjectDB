@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-13 17:43:00 #1 server] 
+Server on port 6136 has started by 17921@tesla-100
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-13 17:43:11 #1 store] 
+Database '/home/rarroyo2/IdeaProjects/MagazinesObjectDB/db/points.odb' is opened by 17965@tesla-100
+
+[2024-03-13 17:43:11 #2 store] 
+Configuration path: /home/rarroyo2/Baixades/objectdb-2.8.9_07/objectdb.conf
+
+[2024-03-13 17:45:37 #3 store] 
+Database '/home/rarroyo2/IdeaProjects/MagazinesObjectDB/db/points.odb' is closed by 17965@tesla-100
+
+[2024-03-13 17:45:37 #4 store] 
+Database '/home/rarroyo2/IdeaProjects/MagazinesObjectDB/db/magazines.odb' has been recovered (tr. 1-54)
+
+[2024-03-13 17:45:37 #5 store] 
+Database '/home/rarroyo2/IdeaProjects/MagazinesObjectDB/db/magazines.odb' is opened by 17965@tesla-100
+
+[2024-03-13 17:45:37 #6 store] 
+Configuration path: /home/rarroyo2/Baixades/objectdb-2.8.9_07/objectdb.conf
+
